@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(243, 243, 178);
+}
+li:hover{
+    color: white;
+}
+.header{
+    text-align: center;
+}
+ul,li,h1{
+    display: inline-block;
+}
+ul{
+    text-align: center;
+    margin-top: 20px;
+}
+li{
+  cursor: pointer;
+  color: gray;  
+}
+.produts{
+    background-color: white;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+}
+.fruits{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.meals{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.noodles{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.parota{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.contact{
+    text-align: center;
+}
+p{
+    padding-top: 40px;
+}
